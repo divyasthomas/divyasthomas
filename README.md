@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyasthomas
-- 👀 I’m passionate about data science and machine learning
-- 🌱 I’m currently learning about deep learning
-- 💞️ I’m looking to collaborate on anything related to data science including data visualizations, data analysis and machine learning
+- 👀 I’m passionate about Software Engineering, Data Science and Artificial Intelligence
+- 🌱 I’m currently learning about Generative AI
+- 💞️ I’m looking to collaborate on anything related to data science including data visualizations, data engineering,  and machine learning
 - 📫 How to reach me: divyasthomas@gmail.com
 
 <!---
